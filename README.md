@@ -1,7 +1,7 @@
 
 <div align="center"><img src="https://c.tenor.com/Ypo7sWozoyIAAAAC/laugh-evil-laugh.gif" /></div>
 <h1 align="center">Hi 👋, I'm Rachid bouhouch</h1>
-<h3 align="center">Student at ENSIAS Rabat </h3>
+<h3 align="center">Software engineering </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachidbouhouch&label=Profile%20views&color=0e75b6&style=flat" alt="rachidbouhouch" /> </p>
 
