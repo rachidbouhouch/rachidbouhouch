@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachidbouhouch&label=Profile%20views&color=0e75b6&style=flat" alt="rachidbouhouch" /> </p>
 
-- 📫 How to reach me **rachidbouhouch08@gmail.com**
+- 📫 How to reach me **rachid.bouhouch.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
